@@ -1,0 +1,35 @@
+Feature,Importance,Importance_Relative
+type_Heat Exchanger,0.19372723,19.372719
+cumulative_risk,0.07585666,7.5856657
+type_Compressor,0.0556419,5.5641894
+type_Pressure Vessel,0.054625787,5.462578
+type_Pressure Relief Device,0.05276018,5.276017
+type_Piping System,0.04779139,4.7791386
+type_Storage Tank,0.04127547,4.127547
+wall_integrity_ratio,0.035168745,3.516874
+dm_sour_service,0.024952749,2.4952745
+dm_scc,0.0244496,2.4449596
+dm_thinning,0.0225744,2.2574399
+operating_pressure_bar,0.022097265,2.2097263
+years_in_service,0.02144909,2.144909
+operating_temp_c,0.021144528,2.1144526
+operating_severity,0.020887325,2.0887322
+salt_exposure_factor,0.01782842,1.7828418
+corrosion_rate_mm_yr,0.01748968,1.7489678
+remaining_wall_mm,0.017018994,1.7018993
+mat_Stainless Steel 304,0.016863246,1.6863244
+corrosion_rate_adj_mm_yr,0.016686082,1.668608
+h2s_ppm,0.016612086,1.6612085
+material_vulnerability,0.016564118,1.6564116
+env_stress_score,0.016296271,1.629627
+humidity_percent,0.01627869,1.6278688
+dm_external_corrosion,0.016121784,1.6121782
+co2_partial_pressure_bar,0.016004965,1.6004963
+mat_Duplex Stainless,0.015889075,1.5889072
+mat_Carbon Steel,0.015191799,1.5191797
+protection_score,0.01498854,1.4988538
+n_past_inspections,0.014655681,1.465568
+mat_Stainless Steel 316,0.014291028,1.4291025
+years_since_inspection,0.013938672,1.393867
+inspection_effectiveness_score,0.012878647,1.2878646
+mat_Inconel 625,0.0,0.0
